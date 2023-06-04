@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @valiahmad
-- 👀 I’m interested in AI and SWE
-- 🌱 I’m currently learning NLP,Image Processing,ML,SW
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in NLP, Image Processing, ML, DL, ANN.
+- 🌱 I’m currently learning NLP, ML, Dl, ANN.
+- 💞️ I’m looking to collaborate on chatbot and feature extraction projects.
 - 📫 How to reach me vali.rahmani70@gmail.com
 
 <!---
